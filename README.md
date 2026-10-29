@@ -18,7 +18,7 @@ Progress, notes, planner sessions, preferences, bookmarks and custom resources a
 
 ## GitHub Pages
 
-The app is static and works from a repository root. GitHub Pages for a private repository depends on your GitHub plan; GitHub Free personal accounts require a public repository. Pages served from a private repository are generally public on the internet unless an eligible enterprise configuration provides private site access. Keep this repository private as requested and do not enable Pages until you choose the site visibility. When ready, use **Settings → Pages → Deploy from a branch**, select `main` and `/ (root)`. Every asset uses relative paths, so it works at a project subpath.
+This repository and its Pages site are public. GitHub Pages is configured to deploy from the `main` branch root. GitHub's first deployment may take a few minutes; check **Settings → Pages** for the live site link and deployment status. Learning progress and notes stay in each visitor's browser and are not stored in this repository or synchronized between devices.
 
 ## Curriculum source
 
